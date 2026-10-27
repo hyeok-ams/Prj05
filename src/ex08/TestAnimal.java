@@ -37,7 +37,7 @@ class Cat extends Animal{
 }
 
 class Tiger extends Animal{
-
+ 
 	@Override
 	void sound() {
 		System.out.println(name + "(이)가 어~흥");
