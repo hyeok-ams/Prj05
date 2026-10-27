@@ -70,7 +70,7 @@ public class MemberTest {
 		//1. 생성자를 이용
 		GMember r1 = new GMember("원이", 2004, "리더");
 		r1.info();
-		
+		 
 		//2. Getter / Setter 를 사용
 		
 		

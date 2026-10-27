@@ -59,7 +59,7 @@ public class MemberTest {
 		rescArr[2] = new GirlMember("미나미", 2006, "보컬"); //resc3과 같다
 		rescArr[3] = new GirlMember("메이", 2008, "랩"); //resc4과 같다
 		rescArr[4] = new GirlMember("제나", 2008, "보컬"); //resc5과 같다
-		
+		 
 		for (int i = 0; i < rescArr.length; i++) {
 			rescArr[i].info();
 		}
