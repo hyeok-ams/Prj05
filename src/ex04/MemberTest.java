@@ -63,6 +63,7 @@ public class MemberTest {
 		for (int i = 0; i < rescArr.length; i++) {
 			rescArr[i].info();
 		}
+		System.out.println();
 	}
 
 }
